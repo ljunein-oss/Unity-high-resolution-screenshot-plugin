@@ -5,10 +5,11 @@
 
 English | [中文](README.md)
 
-A small Unity editor window for high resolution screenshots, roughly what HighResShot does in Unreal.
+A small Unity editor window for high resolution screenshots, roughly what HighResShot does in Unreal. The window UI has a **Chinese / English switch**.
 
 ```
 Tools ▸ High-Res Screenshot
+工具 ▸ 高分辨率截图
 ```
 
 ## What it does

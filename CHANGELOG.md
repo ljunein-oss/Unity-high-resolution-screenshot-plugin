@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.1.0] - 2026-09-29
+
+- 窗口内新增中文 / English 切换（记在 EditorPrefs 里，跟着工程走）
+- 菜单同时注册了 `Tools ▸ High-Res Screenshot` 和 `工具 ▸ 高分辨率截图`
+
 ## [1.0.0] - 2026-09-29
 
 首个版本。

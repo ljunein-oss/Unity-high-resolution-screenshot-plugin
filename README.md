@@ -5,10 +5,11 @@
 
 [English](README_EN.md) | 中文
 
-一个小巧的 Unity 编辑器窗口，用来出高分辨率截图，思路和 UE 的 HighResShot 差不多。
+一个小巧的 Unity 编辑器窗口，用来出高分辨率截图，思路和 UE 的 HighResShot 差不多。窗口界面支持**中文 / English 切换**。
 
 ```
-工具 ▸ High-Res Screenshot
+工具 ▸ 高分辨率截图
+Tools ▸ High-Res Screenshot
 ```
 
 ## 能做什么

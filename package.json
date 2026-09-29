@@ -1,8 +1,8 @@
 {
   "name": "com.rtools.highres-screenshot",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "displayName": "High-Res Screenshot",
-  "description": "A small Unity editor window for high resolution screenshots, similar to Unreal's HighResShot. Take a shot from the game camera or the scene view at a multiplier (1x-8x) or an explicit resolution, save as PNG or EXR, with a filename prefix and auto incrementing counter and an in-window preview. Works with Built-in, URP and HDRP (no render pipeline dependency).",
+  "description": "A small Unity editor window for high resolution screenshots, similar to Unreal's HighResShot. Take a shot from the game camera or the scene view at a multiplier (1x-8x) or an explicit resolution, save as PNG or EXR, with a filename prefix and auto incrementing counter and an in-window preview. The window has a Chinese / English switch. Works with Built-in, URP and HDRP (no render pipeline dependency).",
   "unity": "2021.3",
   "unityRelease": "0f1",
   "keywords": [
