@@ -1,0 +1,29 @@
+{
+  "name": "com.rtools.highres-screenshot",
+  "version": "1.0.0",
+  "displayName": "High-Res Screenshot",
+  "description": "A small Unity editor window for high resolution screenshots, similar to Unreal's HighResShot. Take a shot from the game camera or the scene view at a multiplier (1x-8x) or an explicit resolution, save as PNG or EXR, with a filename prefix and auto incrementing counter and an in-window preview. Works with Built-in, URP and HDRP (no render pipeline dependency).",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "keywords": [
+    "screenshot",
+    "highres",
+    "highresshot",
+    "capture",
+    "png",
+    "exr",
+    "editor-tool",
+    "utility"
+  ],
+  "author": {
+    "name": "ljunein-oss",
+    "url": "https://github.com/ljunein-oss"
+  },
+  "license": "MIT",
+  "documentationUrl": "https://github.com/ljunein-oss/Unity-high-resolution-screenshot-plugin#readme",
+  "changelogUrl": "https://github.com/ljunein-oss/Unity-high-resolution-screenshot-plugin/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/ljunein-oss/Unity-high-resolution-screenshot-plugin/blob/main/LICENSE.md",
+  "category": "Editor",
+  "dependencies": {},
+  "samples": []
+}
